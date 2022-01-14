@@ -1,0 +1,24 @@
+{
+  "name": "gify-hero",
+  "version": "1.0.0",
+  "description": "Gif on hovering over the hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyo-kaze/Gify-Hero.git"
+  },
+  "keywords": [
+    "Gif",
+    "hero",
+    "gify-hero"
+  ],
+  "author": "Soyokaze (sameer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyo-kaze/Gify-Hero/issues"
+  },
+  "homepage": "https://github.com/soyo-kaze/Gify-Hero#readme"
+}
