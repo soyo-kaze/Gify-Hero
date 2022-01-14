@@ -12,22 +12,21 @@
 
 * Use it like this
 
-  ```react
-  import {HeroText,Pointer} from './HeroText';
-  import gif_you_want_on_it from './some.gif'; 
-  // this will be shown when hovered over the hero text
+```javascript
+import {HeroText,Pointer} from './HeroText';
+import gif_you_want_on_it from './some.gif';  // this will be shown when hovered over the hero text
   
-  const yourComponent = () =>{
-      return(
-      	<>
-          	<Pointer/> {/*you can import and render it into the root component as we want to this only once.*/}
-          	<div>
-              	<HeroText GifSrc={gif_you_want_on_it}>The HeroText you want</HeroText>
-  			</div>
-          </>
-      )
-  }
-  ```
+const yourComponent = () =>{
+  return(
+    <>
+      <Pointer/> {/*you can import and render it into the root component as we want to this only once.*/}
+      <div>
+        <HeroText GifSrc={gif_you_want_on_it}>The HeroText you want</HeroText>
+      </div>
+    </>
+  )
+}
+```
 
 * Example demo:
 
