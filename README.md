@@ -31,5 +31,5 @@
 
 * Example demo:
 
-  <video src="E:\Projects\Gify-Hero\2022-01-14 14-31-21.mp4"></video>
+  <video src=".\2022-01-14 14-31-21.mp4"></video>
 
